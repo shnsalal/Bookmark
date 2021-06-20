@@ -1,0 +1,1 @@
+[{"id":1624032487683,"name":"BookmarkRoot","type":"folder","date":1624032487683,"folderUrl":"C:\\Users\\shnsa\\eclipse-workspace\\bookmarkApp\\src\\main\\resources\\BookmarkRoot"},{"id":1624032487683,"name":"game","type":"folder","date":1624032487683,"folderUrl":"C:\\Users\\shnsa\\eclipse-workspace\\bookmarkApp\\src\\main\\resources\\BookmarkRoot\\game"}]
